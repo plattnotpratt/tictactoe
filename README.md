@@ -1,10 +1,8 @@
 # Tic Tac Toe
----
 ### Description
-
 Click empty squares to make a line of 3 like symbols.
-You can win, lose, or tie. Once the game is concluded it will announce the results.
-You can reset and start again.
+You can win, lose, or tie. Once the game is concluded it will announce the results. You can reset the game at any time.
+
 ---
 ### Starting the Game
 this is a static html and css game.
