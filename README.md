@@ -5,7 +5,7 @@ You can win, lose, or tie. Once the game is concluded it will announce the resul
 
 ---
 ### Starting the Game
-this is a static html and css game.
+This is a static html and css game.
 open the index.html file in your browser.
 Load all files onto a server to hoste.
 
